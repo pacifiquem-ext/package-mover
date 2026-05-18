@@ -20,7 +20,8 @@
   "author": "IVainqueur",
   "license": "MIT",
   "dependencies": {
-    "commander": "^9.4.1"
+    "commander": "^9.4.1",
+    "vitest": "^4.1.6"
   },
   "main": "bin/package-mover.js",
   "directories": {
@@ -28,7 +29,6 @@
     "src": "src",
     "commands": "src/commands"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IVainqueur/package-mover.git"
